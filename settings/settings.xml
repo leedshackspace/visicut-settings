@@ -5,14 +5,17 @@
   <windowBounds>
     <x>0</x>
     <y>27</y>
-    <width>1433</width>
-    <height>854</height>
+    <width>1366</width>
+    <height>741</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
+    <string>/tmp/ink_ext_XXXXXX.svg4KTKSX.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgQGOISX.svg</string>
+    <string>/home/parag0n/.visicut/examples/hacmankeyring.svg</string>
   </recentFiles>
-  <lastMaterial>Acrylic</lastMaterial>
-  <lastLaserDevice>LAOS KIII</lastLaserDevice>
+  <lastMaterial>MDF</lastMaterial>
+  <lastLaserDevice>Leeds LAOS</lastLaserDevice>
   <availableImporters>
     <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
     <string>com.t_oster.visicut.model.graphicelements.jpgpngsupport.JPGPNGImporter</string>
