@@ -1,4 +1,4 @@
 visicut-settings
 ================
 
-Settings for the Hackspace Manchester Laser cutter
+Settings for the Leeds Hackspace laser cutter.
